@@ -7,3 +7,6 @@ This repository contains SQL queries designed to help data analysts and BI profe
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+🌟 About Me
+Hi there! I'm Shashank -- Aspiring Data Engineer with a passion for building data pipelines, transforming raw data into meaningful insights, and working with tools like Python, SQL and Cloud platforms. I enjoy learning about how data flows in real-world systems.
